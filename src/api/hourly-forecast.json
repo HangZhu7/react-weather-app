@@ -1,0 +1,3731 @@
+{
+  "lat": "51.50853N",
+  "lon": "0.12574W",
+  "elevation": 25,
+  "timezone": "Europe/London",
+  "units": "uk",
+  "hourly": {
+    "data": [
+      {
+        "date": "2026-11-17T04:00:00",
+        "weather": "rain",
+        "icon": 11,
+        "summary": "Rain",
+        "temperature": 7.5,
+        "feels_like": 4.5,
+        "wind_chill": 5.5,
+        "dew_point": 7.2,
+        "wind": {
+          "speed": 10.9,
+          "gusts": 25.7,
+          "dir": "SSE",
+          "angle": 147
+        },
+        "cloud_cover": 100,
+        "pressure": 983,
+        "precipitation": {
+          "total": 1,
+          "type": "rain"
+        },
+        "probability": {
+          "precipitation": 95,
+          "storm": 0,
+          "freeze": 8
+        },
+        "ozone": 263.48,
+        "uv_index": 0,
+        "humidity": 98,
+        "visibility": 0.29
+      },
+      {
+        "date": "2026-11-17T05:00:00",
+        "weather": "rain",
+        "icon": 11,
+        "summary": "Rain",
+        "temperature": 8.2,
+        "feels_like": 6,
+        "wind_chill": 6.5,
+        "dew_point": 8,
+        "wind": {
+          "speed": 9.7,
+          "gusts": 24.5,
+          "dir": "SSW",
+          "angle": 204
+        },
+        "cloud_cover": 98,
+        "pressure": 982,
+        "precipitation": {
+          "total": 3.7,
+          "type": "rain"
+        },
+        "probability": {
+          "precipitation": 95,
+          "storm": 0,
+          "freeze": 4
+        },
+        "ozone": 267.54,
+        "uv_index": 0,
+        "humidity": 98,
+        "visibility": 0.23
+      },
+      {
+        "date": "2026-11-17T06:00:00",
+        "weather": "rain",
+        "icon": 11,
+        "summary": "Rain",
+        "temperature": 9.2,
+        "feels_like": 6.5,
+        "wind_chill": 7.5,
+        "dew_point": 8.2,
+        "wind": {
+          "speed": 13,
+          "gusts": 21.8,
+          "dir": "WSW",
+          "angle": 249
+        },
+        "cloud_cover": 93,
+        "pressure": 981,
+        "precipitation": {
+          "total": 0.7,
+          "type": "rain"
+        },
+        "probability": {
+          "precipitation": 95,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 270.01,
+        "uv_index": 0,
+        "humidity": 93,
+        "visibility": 15
+      },
+      {
+        "date": "2026-11-17T07:00:00",
+        "weather": "light_rain",
+        "icon": 10,
+        "summary": "Light rain",
+        "temperature": 9.8,
+        "feels_like": 6.8,
+        "wind_chill": 7.8,
+        "dew_point": 8.5,
+        "wind": {
+          "speed": 13.3,
+          "gusts": 14.5,
+          "dir": "SW",
+          "angle": 235
+        },
+        "cloud_cover": 91,
+        "pressure": 981,
+        "precipitation": {
+          "total": 0.3,
+          "type": "rain"
+        },
+        "probability": {
+          "precipitation": 77,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 272.8,
+        "uv_index": 0,
+        "humidity": 91,
+        "visibility": 13.25
+      },
+      {
+        "date": "2026-11-17T08:00:00",
+        "weather": "rain_shower",
+        "icon": 13,
+        "summary": "Rain shower",
+        "temperature": 11.8,
+        "feels_like": 7.5,
+        "wind_chill": 9.5,
+        "dew_point": 9.5,
+        "wind": {
+          "speed": 15.5,
+          "gusts": 23.2,
+          "dir": "WSW",
+          "angle": 241
+        },
+        "cloud_cover": 70,
+        "pressure": 981,
+        "precipitation": {
+          "total": 0.2,
+          "type": "rain"
+        },
+        "probability": {
+          "precipitation": 57,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 281,
+        "uv_index": 0,
+        "humidity": 86,
+        "visibility": 12.52
+      },
+      {
+        "date": "2026-11-17T09:00:00",
+        "weather": "partly_sunny",
+        "icon": 4,
+        "summary": "Partly sunny",
+        "temperature": 13,
+        "feels_like": 8.2,
+        "wind_chill": 10.2,
+        "dew_point": 9,
+        "wind": {
+          "speed": 18.5,
+          "gusts": 34.5,
+          "dir": "WSW",
+          "angle": 248
+        },
+        "cloud_cover": 55,
+        "pressure": 982,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 17,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 293.07,
+        "uv_index": 0.21,
+        "humidity": 76,
+        "visibility": 10.08
+      },
+      {
+        "date": "2026-11-17T10:00:00",
+        "weather": "partly_sunny",
+        "icon": 4,
+        "summary": "Partly sunny",
+        "temperature": 13,
+        "feels_like": 8.8,
+        "wind_chill": 10.2,
+        "dew_point": 8.8,
+        "wind": {
+          "speed": 19.3,
+          "gusts": 36.5,
+          "dir": "WSW",
+          "angle": 243
+        },
+        "cloud_cover": 48,
+        "pressure": 983,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 12,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 293.79,
+        "uv_index": 0.49,
+        "humidity": 75,
+        "visibility": 15
+      },
+      {
+        "date": "2026-11-17T11:00:00",
+        "weather": "partly_sunny",
+        "icon": 4,
+        "summary": "Partly sunny",
+        "temperature": 13,
+        "feels_like": 8.2,
+        "wind_chill": 9.8,
+        "dew_point": 8,
+        "wind": {
+          "speed": 19.4,
+          "gusts": 36.7,
+          "dir": "WSW",
+          "angle": 246
+        },
+        "cloud_cover": 43,
+        "pressure": 984,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 2,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 298.07,
+        "uv_index": 0.73,
+        "humidity": 71,
+        "visibility": 15
+      },
+      {
+        "date": "2026-11-17T12:00:00",
+        "weather": "partly_sunny",
+        "icon": 4,
+        "summary": "Partly sunny",
+        "temperature": 13.2,
+        "feels_like": 8.5,
+        "wind_chill": 10.5,
+        "dew_point": 7.2,
+        "wind": {
+          "speed": 18.4,
+          "gusts": 37.4,
+          "dir": "WSW",
+          "angle": 247
+        },
+        "cloud_cover": 50,
+        "pressure": 983,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 0,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 301.62,
+        "uv_index": 0.83,
+        "humidity": 66,
+        "visibility": 15
+      },
+      {
+        "date": "2026-11-17T13:00:00",
+        "weather": "overcast",
+        "icon": 7,
+        "summary": "Overcast",
+        "temperature": 13.2,
+        "feels_like": 9.5,
+        "wind_chill": 10.5,
+        "dew_point": 7,
+        "wind": {
+          "speed": 17.1,
+          "gusts": 35.8,
+          "dir": "WSW",
+          "angle": 245
+        },
+        "cloud_cover": 100,
+        "pressure": 983,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 2,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 303.99,
+        "uv_index": 0.73,
+        "humidity": 65,
+        "visibility": 15
+      },
+      {
+        "date": "2026-11-17T14:00:00",
+        "weather": "overcast",
+        "icon": 7,
+        "summary": "Overcast",
+        "temperature": 13,
+        "feels_like": 7.8,
+        "wind_chill": 10.2,
+        "dew_point": 6.8,
+        "wind": {
+          "speed": 16.4,
+          "gusts": 34.2,
+          "dir": "WSW",
+          "angle": 242
+        },
+        "cloud_cover": 100,
+        "pressure": 983,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 5,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 302.88,
+        "uv_index": 0.41,
+        "humidity": 65,
+        "visibility": 15
+      },
+      {
+        "date": "2026-11-17T15:00:00",
+        "weather": "overcast",
+        "icon": 7,
+        "summary": "Overcast",
+        "temperature": 12.5,
+        "feels_like": 8,
+        "wind_chill": 10,
+        "dew_point": 6.8,
+        "wind": {
+          "speed": 14,
+          "gusts": 30.1,
+          "dir": "SW",
+          "angle": 232
+        },
+        "cloud_cover": 100,
+        "pressure": 983,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 17,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 298.81,
+        "uv_index": 0.17,
+        "humidity": 67,
+        "visibility": 15
+      },
+      {
+        "date": "2026-11-17T16:00:00",
+        "weather": "overcast",
+        "icon": 7,
+        "summary": "Overcast",
+        "temperature": 11.8,
+        "feels_like": 7.8,
+        "wind_chill": 9.8,
+        "dew_point": 7.8,
+        "wind": {
+          "speed": 11.6,
+          "gusts": 25.7,
+          "dir": "SW",
+          "angle": 233
+        },
+        "cloud_cover": 100,
+        "pressure": 982,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 46,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 297.02,
+        "uv_index": 0,
+        "humidity": 76,
+        "visibility": 15
+      },
+      {
+        "date": "2026-11-17T17:00:00",
+        "weather": "mostly_cloudy",
+        "icon": 29,
+        "summary": "Mostly cloudy",
+        "temperature": 10.8,
+        "feels_like": 7.5,
+        "wind_chill": 8.5,
+        "dew_point": 7.5,
+        "wind": {
+          "speed": 10.3,
+          "gusts": 21,
+          "dir": "SW",
+          "angle": 234
+        },
+        "cloud_cover": 71,
+        "pressure": 982,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 45,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 298.62,
+        "uv_index": 0,
+        "humidity": 80,
+        "visibility": 12.07
+      },
+      {
+        "date": "2026-11-17T18:00:00",
+        "weather": "overcast",
+        "icon": 7,
+        "summary": "Overcast",
+        "temperature": 10,
+        "feels_like": 7.5,
+        "wind_chill": 8.5,
+        "dew_point": 7.2,
+        "wind": {
+          "speed": 7.2,
+          "gusts": 18.6,
+          "dir": "W",
+          "angle": 272
+        },
+        "cloud_cover": 99,
+        "pressure": 982,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 6,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 298.27,
+        "uv_index": 0,
+        "humidity": 83,
+        "visibility": 15
+      },
+      {
+        "date": "2026-11-17T19:00:00",
+        "weather": "cloudy",
+        "icon": 30,
+        "summary": "Cloudy",
+        "temperature": 9.8,
+        "feels_like": 6.8,
+        "wind_chill": 7.8,
+        "dew_point": 6.2,
+        "wind": {
+          "speed": 9.3,
+          "gusts": 19.8,
+          "dir": "W",
+          "angle": 259
+        },
+        "cloud_cover": 89,
+        "pressure": 983,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 13,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 304.5,
+        "uv_index": 0,
+        "humidity": 78,
+        "visibility": 15
+      },
+      {
+        "date": "2026-11-17T20:00:00",
+        "weather": "overcast",
+        "icon": 7,
+        "summary": "Overcast",
+        "temperature": 9.5,
+        "feels_like": 6.2,
+        "wind_chill": 7.2,
+        "dew_point": 5.8,
+        "wind": {
+          "speed": 11,
+          "gusts": 22,
+          "dir": "WSW",
+          "angle": 254
+        },
+        "cloud_cover": 91,
+        "pressure": 983,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 1,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 310.31,
+        "uv_index": 0,
+        "humidity": 77,
+        "visibility": 15
+      },
+      {
+        "date": "2026-11-17T21:00:00",
+        "weather": "mostly_cloudy",
+        "icon": 29,
+        "summary": "Mostly cloudy",
+        "temperature": 9,
+        "feels_like": 5.8,
+        "wind_chill": 6.2,
+        "dew_point": 6.2,
+        "wind": {
+          "speed": 12,
+          "gusts": 23.3,
+          "dir": "WSW",
+          "angle": 248
+        },
+        "cloud_cover": 78,
+        "pressure": 984,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 0,
+          "storm": 0,
+          "freeze": 2
+        },
+        "ozone": 313.4,
+        "uv_index": 0,
+        "humidity": 82,
+        "visibility": 15
+      },
+      {
+        "date": "2026-11-17T22:00:00",
+        "weather": "mostly_cloudy",
+        "icon": 29,
+        "summary": "Mostly cloudy",
+        "temperature": 9,
+        "feels_like": 6.8,
+        "wind_chill": 5.8,
+        "dew_point": 6.5,
+        "wind": {
+          "speed": 12.6,
+          "gusts": 24,
+          "dir": "WSW",
+          "angle": 243
+        },
+        "cloud_cover": 79,
+        "pressure": 984,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 2,
+          "storm": 0,
+          "freeze": 2
+        },
+        "ozone": 316.46,
+        "uv_index": 0,
+        "humidity": 84,
+        "visibility": 15
+      },
+      {
+        "date": "2026-11-17T23:00:00",
+        "weather": "overcast",
+        "icon": 7,
+        "summary": "Overcast",
+        "temperature": 9,
+        "feels_like": 6,
+        "wind_chill": 6,
+        "dew_point": 6.8,
+        "wind": {
+          "speed": 13.1,
+          "gusts": 23.7,
+          "dir": "WSW",
+          "angle": 241
+        },
+        "cloud_cover": 100,
+        "pressure": 984,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 3,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 314.5,
+        "uv_index": 0,
+        "humidity": 85,
+        "visibility": 15
+      },
+      {
+        "date": "2026-11-18T00:00:00",
+        "weather": "overcast",
+        "icon": 7,
+        "summary": "Overcast",
+        "temperature": 9.2,
+        "feels_like": 4.8,
+        "wind_chill": 6.2,
+        "dew_point": 6.8,
+        "wind": {
+          "speed": 13.4,
+          "gusts": 24.2,
+          "dir": "WSW",
+          "angle": 240
+        },
+        "cloud_cover": 100,
+        "pressure": 984,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 21,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 313.44,
+        "uv_index": 0,
+        "humidity": 84,
+        "visibility": 15
+      },
+      {
+        "date": "2026-11-18T01:00:00",
+        "weather": "cloudy",
+        "icon": 30,
+        "summary": "Cloudy",
+        "temperature": 9.8,
+        "feels_like": 5.8,
+        "wind_chill": 7.2,
+        "dew_point": 7,
+        "wind": {
+          "speed": 13.3,
+          "gusts": 27.2,
+          "dir": "WSW",
+          "angle": 240
+        },
+        "cloud_cover": 81,
+        "pressure": 984,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 26,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 312.78,
+        "uv_index": 0,
+        "humidity": 82,
+        "visibility": 15
+      },
+      {
+        "date": "2026-11-18T02:00:00",
+        "weather": "overcast",
+        "icon": 7,
+        "summary": "Overcast",
+        "temperature": 10,
+        "feels_like": 5.5,
+        "wind_chill": 7,
+        "dew_point": 6.2,
+        "wind": {
+          "speed": 15.9,
+          "gusts": 29.2,
+          "dir": "WSW",
+          "angle": 246
+        },
+        "cloud_cover": 98,
+        "pressure": 985,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 5,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 312.52,
+        "uv_index": 0,
+        "humidity": 77,
+        "visibility": 15
+      },
+      {
+        "date": "2026-11-18T03:00:00",
+        "weather": "overcast",
+        "icon": 7,
+        "summary": "Overcast",
+        "temperature": 10,
+        "feels_like": 5.2,
+        "wind_chill": 7.2,
+        "dew_point": 5.8,
+        "wind": {
+          "speed": 15.7,
+          "gusts": 29.2,
+          "dir": "WSW",
+          "angle": 248
+        },
+        "cloud_cover": 100,
+        "pressure": 985,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 9,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 312.5,
+        "uv_index": 0,
+        "humidity": 74,
+        "visibility": 15
+      },
+      {
+        "date": "2026-11-18T04:00:00",
+        "weather": "cloudy",
+        "icon": 30,
+        "summary": "Cloudy",
+        "temperature": 9.8,
+        "feels_like": 5.2,
+        "wind_chill": 7.2,
+        "dew_point": 5.2,
+        "wind": {
+          "speed": 15.2,
+          "gusts": 28.2,
+          "dir": "WSW",
+          "angle": 247
+        },
+        "cloud_cover": 80,
+        "pressure": 985,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 20,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 314.5,
+        "uv_index": 0,
+        "humidity": 73,
+        "visibility": 15
+      },
+      {
+        "date": "2026-11-18T05:00:00",
+        "weather": "overcast",
+        "icon": 7,
+        "summary": "Overcast",
+        "temperature": 9.8,
+        "feels_like": 5.2,
+        "wind_chill": 6.8,
+        "dew_point": 5.5,
+        "wind": {
+          "speed": 15,
+          "gusts": 26.8,
+          "dir": "WSW",
+          "angle": 247
+        },
+        "cloud_cover": 100,
+        "pressure": 986,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 17,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 315.9,
+        "uv_index": 0,
+        "humidity": 74,
+        "visibility": 15
+      },
+      {
+        "date": "2026-11-18T06:00:00",
+        "weather": "overcast",
+        "icon": 7,
+        "summary": "Overcast",
+        "temperature": 9.8,
+        "feels_like": 5.5,
+        "wind_chill": 7,
+        "dew_point": 6,
+        "wind": {
+          "speed": 13.8,
+          "gusts": 25,
+          "dir": "WSW",
+          "angle": 245
+        },
+        "cloud_cover": 100,
+        "pressure": 986,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 5,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 318,
+        "uv_index": 0,
+        "humidity": 77,
+        "visibility": 15
+      },
+      {
+        "date": "2026-11-18T07:00:00",
+        "weather": "overcast",
+        "icon": 7,
+        "summary": "Overcast",
+        "temperature": 9.8,
+        "feels_like": 5.2,
+        "wind_chill": 6.8,
+        "dew_point": 6,
+        "wind": {
+          "speed": 13.9,
+          "gusts": 24.4,
+          "dir": "WSW",
+          "angle": 240
+        },
+        "cloud_cover": 97,
+        "pressure": 987,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 14,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 319.18,
+        "uv_index": 0,
+        "humidity": 77,
+        "visibility": 15
+      },
+      {
+        "date": "2026-11-18T08:00:00",
+        "weather": "overcast",
+        "icon": 7,
+        "summary": "Overcast",
+        "temperature": 10,
+        "feels_like": 5.2,
+        "wind_chill": 7.2,
+        "dew_point": 5.8,
+        "wind": {
+          "speed": 14.5,
+          "gusts": 25,
+          "dir": "WSW",
+          "angle": 242
+        },
+        "cloud_cover": 100,
+        "pressure": 987,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 24,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 320.9,
+        "uv_index": 0,
+        "humidity": 74,
+        "visibility": 15
+      },
+      {
+        "date": "2026-11-18T09:00:00",
+        "weather": "overcast",
+        "icon": 7,
+        "summary": "Overcast",
+        "temperature": 10.5,
+        "feels_like": 5.5,
+        "wind_chill": 7.5,
+        "dew_point": 5.5,
+        "wind": {
+          "speed": 15.9,
+          "gusts": 25.5,
+          "dir": "WSW",
+          "angle": 245
+        },
+        "cloud_cover": 95,
+        "pressure": 988,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 5,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 322.2,
+        "uv_index": 0.11,
+        "humidity": 71,
+        "visibility": 15
+      },
+      {
+        "date": "2026-11-18T10:00:00",
+        "weather": "overcast",
+        "icon": 7,
+        "summary": "Overcast",
+        "temperature": 11.2,
+        "feels_like": 6,
+        "wind_chill": 8.5,
+        "dew_point": 6,
+        "wind": {
+          "speed": 15.5,
+          "gusts": 25.5,
+          "dir": "WSW",
+          "angle": 242
+        },
+        "cloud_cover": 97,
+        "pressure": 989,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 7,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 322.72,
+        "uv_index": 0.18,
+        "humidity": 70,
+        "visibility": 15
+      },
+      {
+        "date": "2026-11-18T11:00:00",
+        "weather": "cloudy",
+        "icon": 6,
+        "summary": "Cloudy",
+        "temperature": 12,
+        "feels_like": 6.8,
+        "wind_chill": 9.2,
+        "dew_point": 6,
+        "wind": {
+          "speed": 15.3,
+          "gusts": 29.7,
+          "dir": "WSW",
+          "angle": 242
+        },
+        "cloud_cover": 83,
+        "pressure": 989,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 8,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 323.81,
+        "uv_index": 0.25,
+        "humidity": 66,
+        "visibility": 15
+      },
+      {
+        "date": "2026-11-18T12:00:00",
+        "weather": "partly_sunny",
+        "icon": 4,
+        "summary": "Partly sunny",
+        "temperature": 12.8,
+        "feels_like": 7.5,
+        "wind_chill": 10,
+        "dew_point": 6.5,
+        "wind": {
+          "speed": 15,
+          "gusts": 30.3,
+          "dir": "WSW",
+          "angle": 244
+        },
+        "cloud_cover": 31,
+        "pressure": 989,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 3,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 323.82,
+        "uv_index": 0.31,
+        "humidity": 65,
+        "visibility": 15
+      },
+      {
+        "date": "2026-11-18T13:00:00",
+        "weather": "partly_sunny",
+        "icon": 4,
+        "summary": "Partly sunny",
+        "temperature": 13.2,
+        "feels_like": 10,
+        "wind_chill": 11,
+        "dew_point": 6.2,
+        "wind": {
+          "speed": 13.7,
+          "gusts": 29.7,
+          "dir": "WSW",
+          "angle": 244
+        },
+        "cloud_cover": 23,
+        "pressure": 989,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 4,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 323.22,
+        "uv_index": 0.66,
+        "humidity": 62,
+        "visibility": 15
+      },
+      {
+        "date": "2026-11-18T14:00:00",
+        "weather": "mostly_cloudy",
+        "icon": 5,
+        "summary": "Mostly cloudy",
+        "temperature": 13.2,
+        "feels_like": 10.5,
+        "wind_chill": 11,
+        "dew_point": 6.5,
+        "wind": {
+          "speed": 13.4,
+          "gusts": 26.6,
+          "dir": "WSW",
+          "angle": 242
+        },
+        "cloud_cover": 79,
+        "pressure": 989,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 24,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 329.54,
+        "uv_index": 0.43,
+        "humidity": 63,
+        "visibility": 15
+      },
+      {
+        "date": "2026-11-18T15:00:00",
+        "weather": "mostly_cloudy",
+        "icon": 5,
+        "summary": "Mostly cloudy",
+        "temperature": 12.8,
+        "feels_like": 9.5,
+        "wind_chill": 10,
+        "dew_point": 7.2,
+        "wind": {
+          "speed": 13,
+          "gusts": 24.6,
+          "dir": "WSW",
+          "angle": 245
+        },
+        "cloud_cover": 75,
+        "pressure": 989,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 12,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 331.6,
+        "uv_index": 0.2,
+        "humidity": 69,
+        "visibility": 15
+      },
+      {
+        "date": "2026-11-18T16:00:00",
+        "weather": "partly_sunny",
+        "icon": 4,
+        "summary": "Partly sunny",
+        "temperature": 11.5,
+        "feels_like": 8.8,
+        "wind_chill": 9.2,
+        "dew_point": 7,
+        "wind": {
+          "speed": 10.8,
+          "gusts": 22.7,
+          "dir": "SW",
+          "angle": 236
+        },
+        "cloud_cover": 37,
+        "pressure": 989,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 32,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 332.1,
+        "uv_index": 0,
+        "humidity": 73,
+        "visibility": 15
+      },
+      {
+        "date": "2026-11-18T17:00:00",
+        "weather": "partly_clear",
+        "icon": 28,
+        "summary": "Partly clear",
+        "temperature": 10.5,
+        "feels_like": 8.5,
+        "wind_chill": 8.5,
+        "dew_point": 6.8,
+        "wind": {
+          "speed": 9.4,
+          "gusts": 24.8,
+          "dir": "SW",
+          "angle": 232
+        },
+        "cloud_cover": 46,
+        "pressure": 989,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 1,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 333.58,
+        "uv_index": 0,
+        "humidity": 77,
+        "visibility": 15
+      },
+      {
+        "date": "2026-11-18T18:00:00",
+        "weather": "overcast",
+        "icon": 7,
+        "summary": "Overcast",
+        "temperature": 9.8,
+        "feels_like": 8.5,
+        "wind_chill": 8,
+        "dew_point": 6.5,
+        "wind": {
+          "speed": 8.5,
+          "gusts": 19.2,
+          "dir": "SW",
+          "angle": 221
+        },
+        "cloud_cover": 100,
+        "pressure": 989,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 2,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 331.46,
+        "uv_index": 0,
+        "humidity": 80,
+        "visibility": 15
+      },
+      {
+        "date": "2026-11-18T19:00:00",
+        "weather": "overcast",
+        "icon": 7,
+        "summary": "Overcast",
+        "temperature": 9.5,
+        "feels_like": 6.2,
+        "wind_chill": 7.2,
+        "dew_point": 6.2,
+        "wind": {
+          "speed": 8.9,
+          "gusts": 19.4,
+          "dir": "SW",
+          "angle": 214
+        },
+        "cloud_cover": 100,
+        "pressure": 989,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 4,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 331.1,
+        "uv_index": 0,
+        "humidity": 80,
+        "visibility": 15
+      },
+      {
+        "date": "2026-11-18T20:00:00",
+        "weather": "overcast",
+        "icon": 7,
+        "summary": "Overcast",
+        "temperature": 9.2,
+        "feels_like": 6.8,
+        "wind_chill": 7.8,
+        "dew_point": 6,
+        "wind": {
+          "speed": 6.5,
+          "gusts": 17.9,
+          "dir": "SSW",
+          "angle": 197
+        },
+        "cloud_cover": 100,
+        "pressure": 989,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 45,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 333.8,
+        "uv_index": 0,
+        "humidity": 80,
+        "visibility": 15
+      },
+      {
+        "date": "2026-11-18T21:00:00",
+        "weather": "rain",
+        "icon": 11,
+        "summary": "Rain",
+        "temperature": 9.2,
+        "feels_like": 7,
+        "wind_chill": 7.5,
+        "dew_point": 7,
+        "wind": {
+          "speed": 6.3,
+          "gusts": 16.6,
+          "dir": "S",
+          "angle": 175
+        },
+        "cloud_cover": 100,
+        "pressure": 988,
+        "precipitation": {
+          "total": 0.8,
+          "type": "rain"
+        },
+        "probability": {
+          "precipitation": 95,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 336.01,
+        "uv_index": 0,
+        "humidity": 85,
+        "visibility": 6.64
+      },
+      {
+        "date": "2026-11-18T22:00:00",
+        "weather": "rain",
+        "icon": 11,
+        "summary": "Rain",
+        "temperature": 9,
+        "feels_like": 7,
+        "wind_chill": 7.5,
+        "dew_point": 7.5,
+        "wind": {
+          "speed": 5.6,
+          "gusts": 14.4,
+          "dir": "S",
+          "angle": 176
+        },
+        "cloud_cover": 100,
+        "pressure": 987,
+        "precipitation": {
+          "total": 2.4,
+          "type": "rain"
+        },
+        "probability": {
+          "precipitation": 95,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 340.2,
+        "uv_index": 0,
+        "humidity": 90,
+        "visibility": 4.06
+      },
+      {
+        "date": "2026-11-18T23:00:00",
+        "weather": "rain",
+        "icon": 11,
+        "summary": "Rain",
+        "temperature": 9,
+        "feels_like": 6.8,
+        "wind_chill": 7.8,
+        "dew_point": 7.8,
+        "wind": {
+          "speed": 6.1,
+          "gusts": 11.8,
+          "dir": "SE",
+          "angle": 141
+        },
+        "cloud_cover": 100,
+        "pressure": 986,
+        "precipitation": {
+          "total": 0.8,
+          "type": "rain"
+        },
+        "probability": {
+          "precipitation": 95,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 340.67,
+        "uv_index": 0,
+        "humidity": 91,
+        "visibility": 4.64
+      },
+      {
+        "date": "2026-11-19T00:00:00",
+        "weather": "rain",
+        "icon": 11,
+        "summary": "Rain",
+        "temperature": 9.2,
+        "feels_like": 6.5,
+        "wind_chill": 7,
+        "dew_point": 7.8,
+        "wind": {
+          "speed": 8.4,
+          "gusts": 14.3,
+          "dir": "E",
+          "angle": 96
+        },
+        "cloud_cover": 100,
+        "pressure": 984,
+        "precipitation": {
+          "total": 1,
+          "type": "rain"
+        },
+        "probability": {
+          "precipitation": 95,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 341.9,
+        "uv_index": 0,
+        "humidity": 90,
+        "visibility": 5.34
+      },
+      {
+        "date": "2026-11-19T01:00:00",
+        "weather": "rain",
+        "icon": 11,
+        "summary": "Rain",
+        "temperature": 9,
+        "feels_like": 6.8,
+        "wind_chill": 7.8,
+        "dew_point": 8,
+        "wind": {
+          "speed": 5.5,
+          "gusts": 8.5,
+          "dir": "NE",
+          "angle": 45
+        },
+        "cloud_cover": 100,
+        "pressure": 982,
+        "precipitation": {
+          "total": 0.7,
+          "type": "rain"
+        },
+        "probability": {
+          "precipitation": 95,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 347.84,
+        "uv_index": 0,
+        "humidity": 93,
+        "visibility": 14.19
+      },
+      {
+        "date": "2026-11-19T02:00:00",
+        "weather": "light_rain",
+        "icon": 10,
+        "summary": "Light rain",
+        "temperature": 8.5,
+        "feels_like": 4.2,
+        "wind_chill": 5.2,
+        "dew_point": 7.2,
+        "wind": {
+          "speed": 13.4,
+          "gusts": 13.6,
+          "dir": "NW",
+          "angle": 324
+        },
+        "cloud_cover": 100,
+        "pressure": 982,
+        "precipitation": {
+          "total": 0.6,
+          "type": "rain"
+        },
+        "probability": {
+          "precipitation": 95,
+          "storm": 0,
+          "freeze": 2
+        },
+        "ozone": 351.37,
+        "uv_index": 0,
+        "humidity": 91,
+        "visibility": 12.01
+      },
+      {
+        "date": "2026-11-19T03:00:00",
+        "weather": "rain",
+        "icon": 11,
+        "summary": "Rain",
+        "temperature": 8.2,
+        "feels_like": 3.8,
+        "wind_chill": 4.8,
+        "dew_point": 6,
+        "wind": {
+          "speed": 14.3,
+          "gusts": 17,
+          "dir": "WNW",
+          "angle": 300
+        },
+        "cloud_cover": 100,
+        "pressure": 982,
+        "precipitation": {
+          "total": 1.7,
+          "type": "rain"
+        },
+        "probability": {
+          "precipitation": 95,
+          "storm": 0,
+          "freeze": 4
+        },
+        "ozone": 347.45,
+        "uv_index": 0,
+        "humidity": 85,
+        "visibility": 14.57
+      },
+      {
+        "date": "2026-11-19T04:00:00",
+        "weather": "rain",
+        "icon": 11,
+        "summary": "Rain",
+        "temperature": 8.2,
+        "feels_like": 4.8,
+        "wind_chill": 5.2,
+        "dew_point": 6,
+        "wind": {
+          "speed": 10.7,
+          "gusts": 15.8,
+          "dir": "WNW",
+          "angle": 303
+        },
+        "cloud_cover": 100,
+        "pressure": 983,
+        "precipitation": {
+          "total": 2.2,
+          "type": "rain"
+        },
+        "probability": {
+          "precipitation": 95,
+          "storm": 0,
+          "freeze": 4
+        },
+        "ozone": 340.31,
+        "uv_index": 0,
+        "humidity": 85,
+        "visibility": 15
+      },
+      {
+        "date": "2026-11-19T05:00:00",
+        "weather": "rain",
+        "icon": 11,
+        "summary": "Rain",
+        "temperature": 8.2,
+        "feels_like": 5.2,
+        "wind_chill": 6.2,
+        "dew_point": 6,
+        "wind": {
+          "speed": 6,
+          "gusts": 13.7,
+          "dir": "W",
+          "angle": 267
+        },
+        "cloud_cover": 97,
+        "pressure": 983,
+        "precipitation": {
+          "total": 1.7,
+          "type": "rain"
+        },
+        "probability": {
+          "precipitation": 95,
+          "storm": 0,
+          "freeze": 4
+        },
+        "ozone": 337.02,
+        "uv_index": 0,
+        "humidity": 85,
+        "visibility": 15
+      },
+      {
+        "date": "2026-11-19T06:00:00",
+        "weather": "rain",
+        "icon": 11,
+        "summary": "Rain",
+        "temperature": 8,
+        "feels_like": 5.5,
+        "wind_chill": 6,
+        "dew_point": 6.5,
+        "wind": {
+          "speed": 7,
+          "gusts": 13.9,
+          "dir": "WSW",
+          "angle": 249
+        },
+        "cloud_cover": 100,
+        "pressure": 984,
+        "precipitation": {
+          "total": 1.1,
+          "type": "rain"
+        },
+        "probability": {
+          "precipitation": 93,
+          "storm": 0,
+          "freeze": 5
+        },
+        "ozone": 341.1,
+        "uv_index": 0,
+        "humidity": 90,
+        "visibility": 15
+      },
+      {
+        "date": "2026-11-19T07:00:00",
+        "weather": "light_rain",
+        "icon": 10,
+        "summary": "Light rain",
+        "temperature": 7.8,
+        "feels_like": 5.5,
+        "wind_chill": 6,
+        "dew_point": 6,
+        "wind": {
+          "speed": 5.6,
+          "gusts": 13.1,
+          "dir": "WSW",
+          "angle": 250
+        },
+        "cloud_cover": 100,
+        "pressure": 985,
+        "precipitation": {
+          "total": 0.5,
+          "type": "rain"
+        },
+        "probability": {
+          "precipitation": 68,
+          "storm": 0,
+          "freeze": 7
+        },
+        "ozone": 345,
+        "uv_index": 0,
+        "humidity": 88,
+        "visibility": 15
+      },
+      {
+        "date": "2026-11-19T08:00:00",
+        "weather": "overcast",
+        "icon": 7,
+        "summary": "Overcast",
+        "temperature": 7.5,
+        "feels_like": 5.5,
+        "wind_chill": 5.5,
+        "dew_point": 6,
+        "wind": {
+          "speed": 4.9,
+          "gusts": 12.1,
+          "dir": "WSW",
+          "angle": 246
+        },
+        "cloud_cover": 98,
+        "pressure": 986,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 36,
+          "storm": 0,
+          "freeze": 8
+        },
+        "ozone": 346.18,
+        "uv_index": 0,
+        "humidity": 90,
+        "visibility": 15
+      },
+      {
+        "date": "2026-11-19T09:00:00",
+        "weather": "overcast",
+        "icon": 7,
+        "summary": "Overcast",
+        "temperature": 8,
+        "feels_like": 6.2,
+        "wind_chill": 6.8,
+        "dew_point": 6.2,
+        "wind": {
+          "speed": 4.6,
+          "gusts": 11.1,
+          "dir": "WSW",
+          "angle": 245
+        },
+        "cloud_cover": 97,
+        "pressure": 987,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 6,
+          "storm": 0,
+          "freeze": 6
+        },
+        "ozone": 349.82,
+        "uv_index": 0.16,
+        "humidity": 88,
+        "visibility": 15
+      },
+      {
+        "date": "2026-11-19T10:00:00",
+        "weather": "cloudy",
+        "icon": 6,
+        "summary": "Cloudy",
+        "temperature": 8.5,
+        "feels_like": 6.5,
+        "wind_chill": 7.5,
+        "dew_point": 6,
+        "wind": {
+          "speed": 4.5,
+          "gusts": 11.7,
+          "dir": "W",
+          "angle": 266
+        },
+        "cloud_cover": 86,
+        "pressure": 987,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 2,
+          "storm": 0,
+          "freeze": 4
+        },
+        "ozone": 349.26,
+        "uv_index": 0.3,
+        "humidity": 84,
+        "visibility": 15
+      },
+      {
+        "date": "2026-11-19T11:00:00",
+        "weather": "cloudy",
+        "icon": 6,
+        "summary": "Cloudy",
+        "temperature": 9.2,
+        "feels_like": 7.8,
+        "wind_chill": 8.8,
+        "dew_point": 6,
+        "wind": {
+          "speed": 3.9,
+          "gusts": 11,
+          "dir": "WNW",
+          "angle": 298
+        },
+        "cloud_cover": 86,
+        "pressure": 988,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 1,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 348,
+        "uv_index": 0.42,
+        "humidity": 80,
+        "visibility": 15
+      },
+      {
+        "date": "2026-11-19T12:00:00",
+        "weather": "cloudy",
+        "icon": 6,
+        "summary": "Cloudy",
+        "temperature": 9.8,
+        "feels_like": 8,
+        "wind_chill": 9.5,
+        "dew_point": 5.5,
+        "wind": {
+          "speed": 2.9,
+          "gusts": 10.7,
+          "dir": "WNW",
+          "angle": 302
+        },
+        "cloud_cover": 85,
+        "pressure": 989,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 1,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 346.04,
+        "uv_index": 0.57,
+        "humidity": 74,
+        "visibility": 15
+      },
+      {
+        "date": "2026-11-19T13:00:00",
+        "weather": "overcast",
+        "icon": 7,
+        "summary": "Overcast",
+        "temperature": 10.2,
+        "feels_like": 9.2,
+        "wind_chill": 9.8,
+        "dew_point": 5.8,
+        "wind": {
+          "speed": 3.4,
+          "gusts": 11.1,
+          "dir": "NNW",
+          "angle": 345
+        },
+        "cloud_cover": 100,
+        "pressure": 989,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 3,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 342.82,
+        "uv_index": 0.61,
+        "humidity": 73,
+        "visibility": 15
+      },
+      {
+        "date": "2026-11-19T14:00:00",
+        "weather": "overcast",
+        "icon": 7,
+        "summary": "Overcast",
+        "temperature": 10.5,
+        "feels_like": 8.8,
+        "wind_chill": 9.8,
+        "dew_point": 6,
+        "wind": {
+          "speed": 4.5,
+          "gusts": 10.6,
+          "dir": "NNE",
+          "angle": 14
+        },
+        "cloud_cover": 100,
+        "pressure": 990,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 2,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 335.75,
+        "uv_index": 0.35,
+        "humidity": 73,
+        "visibility": 15
+      },
+      {
+        "date": "2026-11-19T15:00:00",
+        "weather": "overcast",
+        "icon": 7,
+        "summary": "Overcast",
+        "temperature": 9.8,
+        "feels_like": 7.8,
+        "wind_chill": 8.8,
+        "dew_point": 6,
+        "wind": {
+          "speed": 4.9,
+          "gusts": 9.7,
+          "dir": "NNE",
+          "angle": 30
+        },
+        "cloud_cover": 100,
+        "pressure": 990,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 1,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 328.76,
+        "uv_index": 0.16,
+        "humidity": 77,
+        "visibility": 15
+      },
+      {
+        "date": "2026-11-19T16:00:00",
+        "weather": "overcast",
+        "icon": 7,
+        "summary": "Overcast",
+        "temperature": 8.2,
+        "feels_like": 5.5,
+        "wind_chill": 6.5,
+        "dew_point": 4.2,
+        "wind": {
+          "speed": 5.3,
+          "gusts": 9.6,
+          "dir": "NNE",
+          "angle": 29
+        },
+        "cloud_cover": 100,
+        "pressure": 991,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 1,
+          "storm": 0,
+          "freeze": 4
+        },
+        "ozone": 330.54,
+        "uv_index": 0,
+        "humidity": 75,
+        "visibility": 15
+      },
+      {
+        "date": "2026-11-19T17:00:00",
+        "weather": "overcast",
+        "icon": 7,
+        "summary": "Overcast",
+        "temperature": 7,
+        "feels_like": 4.8,
+        "wind_chill": 5.8,
+        "dew_point": 3.2,
+        "wind": {
+          "speed": 6.3,
+          "gusts": 8.9,
+          "dir": "NNE",
+          "angle": 31
+        },
+        "cloud_cover": 99,
+        "pressure": 991,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 4,
+          "storm": 0,
+          "freeze": 11
+        },
+        "ozone": 325.38,
+        "uv_index": 0,
+        "humidity": 77,
+        "visibility": 15
+      },
+      {
+        "date": "2026-11-19T18:00:00",
+        "weather": "overcast",
+        "icon": 7,
+        "summary": "Overcast",
+        "temperature": 6.5,
+        "feels_like": 4,
+        "wind_chill": 5,
+        "dew_point": 3,
+        "wind": {
+          "speed": 7.2,
+          "gusts": 7.4,
+          "dir": "NNE",
+          "angle": 32
+        },
+        "cloud_cover": 98,
+        "pressure": 992,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 6,
+          "storm": 0,
+          "freeze": 14
+        },
+        "ozone": 325.16,
+        "uv_index": 0,
+        "humidity": 78,
+        "visibility": 15
+      },
+      {
+        "date": "2026-11-19T19:00:00",
+        "weather": "overcast",
+        "icon": 7,
+        "summary": "Overcast",
+        "temperature": 6.2,
+        "feels_like": 3.2,
+        "wind_chill": 4.2,
+        "dew_point": 3,
+        "wind": {
+          "speed": 7.8,
+          "gusts": 7.5,
+          "dir": "NE",
+          "angle": 41
+        },
+        "cloud_cover": 98,
+        "pressure": 993,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 8,
+          "storm": 0,
+          "freeze": 15
+        },
+        "ozone": 325.59,
+        "uv_index": 0,
+        "humidity": 79,
+        "visibility": 15
+      },
+      {
+        "date": "2026-11-19T20:00:00",
+        "weather": "overcast",
+        "icon": 7,
+        "summary": "Overcast",
+        "temperature": 5.8,
+        "feels_like": 2.8,
+        "wind_chill": 3.8,
+        "dew_point": 2.8,
+        "wind": {
+          "speed": 8.5,
+          "gusts": 8.5,
+          "dir": "NE",
+          "angle": 41
+        },
+        "cloud_cover": 98,
+        "pressure": 994,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 8,
+          "storm": 0,
+          "freeze": 18
+        },
+        "ozone": 328.21,
+        "uv_index": 0,
+        "humidity": 81,
+        "visibility": 15
+      },
+      {
+        "date": "2026-11-19T21:00:00",
+        "weather": "overcast",
+        "icon": 7,
+        "summary": "Overcast",
+        "temperature": 5.8,
+        "feels_like": 2.8,
+        "wind_chill": 3.8,
+        "dew_point": 2.2,
+        "wind": {
+          "speed": 7.8,
+          "gusts": 8.6,
+          "dir": "NE",
+          "angle": 43
+        },
+        "cloud_cover": 98,
+        "pressure": 995,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 9,
+          "storm": 0,
+          "freeze": 18
+        },
+        "ozone": 329.6,
+        "uv_index": 0,
+        "humidity": 78,
+        "visibility": 15
+      },
+      {
+        "date": "2026-11-19T22:00:00",
+        "weather": "overcast",
+        "icon": 7,
+        "summary": "Overcast",
+        "temperature": 6.2,
+        "feels_like": 2.8,
+        "wind_chill": 3.8,
+        "dew_point": 2,
+        "wind": {
+          "speed": 7.2,
+          "gusts": 9.9,
+          "dir": "NE",
+          "angle": 51
+        },
+        "cloud_cover": 99,
+        "pressure": 996,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 11,
+          "storm": 0,
+          "freeze": 15
+        },
+        "ozone": 328.72,
+        "uv_index": 0,
+        "humidity": 74,
+        "visibility": 15
+      },
+      {
+        "date": "2026-11-19T23:00:00",
+        "weather": "overcast",
+        "icon": 7,
+        "summary": "Overcast",
+        "temperature": 6.5,
+        "feels_like": 3.5,
+        "wind_chill": 4.5,
+        "dew_point": 2,
+        "wind": {
+          "speed": 6.7,
+          "gusts": 10.5,
+          "dir": "NE",
+          "angle": 42
+        },
+        "cloud_cover": 99,
+        "pressure": 997,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 4,
+          "storm": 0,
+          "freeze": 14
+        },
+        "ozone": 329.68,
+        "uv_index": 0,
+        "humidity": 72,
+        "visibility": 15
+      },
+      {
+        "date": "2026-11-20T00:00:00",
+        "weather": "overcast",
+        "icon": 7,
+        "summary": "Overcast",
+        "temperature": 7,
+        "feels_like": 3.5,
+        "wind_chill": 5,
+        "dew_point": 2,
+        "wind": {
+          "speed": 7.4,
+          "gusts": 12,
+          "dir": "NE",
+          "angle": 38
+        },
+        "cloud_cover": 100,
+        "pressure": 997,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 7,
+          "storm": 0,
+          "freeze": 11
+        },
+        "ozone": 328.03,
+        "uv_index": 0,
+        "humidity": 70,
+        "visibility": 15
+      },
+      {
+        "date": "2026-11-20T01:00:00",
+        "weather": "overcast",
+        "icon": 7,
+        "summary": "Overcast",
+        "temperature": 7,
+        "feels_like": 3.2,
+        "wind_chill": 4.8,
+        "dew_point": 1.8,
+        "wind": {
+          "speed": 7.7,
+          "gusts": 13.7,
+          "dir": "NE",
+          "angle": 42
+        },
+        "cloud_cover": 100,
+        "pressure": 998,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 6,
+          "storm": 0,
+          "freeze": 11
+        },
+        "ozone": 326.52,
+        "uv_index": 0,
+        "humidity": 69,
+        "visibility": 15
+      },
+      {
+        "date": "2026-11-20T02:00:00",
+        "weather": "overcast",
+        "icon": 7,
+        "summary": "Overcast",
+        "temperature": 7,
+        "feels_like": 3,
+        "wind_chill": 4.5,
+        "dew_point": 0.8,
+        "wind": {
+          "speed": 8.5,
+          "gusts": 15.9,
+          "dir": "NE",
+          "angle": 44
+        },
+        "cloud_cover": 97,
+        "pressure": 999,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 2,
+          "storm": 0,
+          "freeze": 11
+        },
+        "ozone": 329.11,
+        "uv_index": 0,
+        "humidity": 64,
+        "visibility": 15
+      },
+      {
+        "date": "2026-11-20T03:00:00",
+        "weather": "cloudy",
+        "icon": 30,
+        "summary": "Cloudy",
+        "temperature": 6.8,
+        "feels_like": 3,
+        "wind_chill": 4,
+        "dew_point": 0,
+        "wind": {
+          "speed": 8.6,
+          "gusts": 17.8,
+          "dir": "NE",
+          "angle": 40
+        },
+        "cloud_cover": 82,
+        "pressure": 1000,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 6,
+          "storm": 0,
+          "freeze": 14
+        },
+        "ozone": 329.14,
+        "uv_index": 0,
+        "humidity": 62,
+        "visibility": 15
+      },
+      {
+        "date": "2026-11-20T04:00:00",
+        "weather": "partly_clear",
+        "icon": 28,
+        "summary": "Partly clear",
+        "temperature": 6.2,
+        "feels_like": 2.5,
+        "wind_chill": 3.5,
+        "dew_point": -0.2,
+        "wind": {
+          "speed": 8.1,
+          "gusts": 15.7,
+          "dir": "NE",
+          "angle": 38
+        },
+        "cloud_cover": 65,
+        "pressure": 1001,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 8,
+          "storm": 0,
+          "freeze": 19
+        },
+        "ozone": 330.04,
+        "uv_index": 0,
+        "humidity": 63,
+        "visibility": 15
+      },
+      {
+        "date": "2026-11-20T05:00:00",
+        "weather": "mostly_cloudy",
+        "icon": 29,
+        "summary": "Mostly cloudy",
+        "temperature": 5.8,
+        "feels_like": 3,
+        "wind_chill": 2.5,
+        "dew_point": -0.2,
+        "wind": {
+          "speed": 8,
+          "gusts": 13.8,
+          "dir": "NE",
+          "angle": 35
+        },
+        "cloud_cover": 78,
+        "pressure": 1002,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 8,
+          "storm": 0,
+          "freeze": 20
+        },
+        "ozone": 329.51,
+        "uv_index": 0,
+        "humidity": 65,
+        "visibility": 15
+      },
+      {
+        "date": "2026-11-20T06:00:00",
+        "weather": "mostly_cloudy",
+        "icon": 29,
+        "summary": "Mostly cloudy",
+        "temperature": 5.2,
+        "feels_like": 1.8,
+        "wind_chill": 2.2,
+        "dew_point": -0.2,
+        "wind": {
+          "speed": 6.8,
+          "gusts": 11.2,
+          "dir": "NE",
+          "angle": 34
+        },
+        "cloud_cover": 65,
+        "pressure": 1003,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 7,
+          "storm": 0,
+          "freeze": 24
+        },
+        "ozone": 329.9,
+        "uv_index": 0,
+        "humidity": 67,
+        "visibility": 15
+      },
+      {
+        "date": "2026-11-20T07:00:00",
+        "weather": "partly_sunny",
+        "icon": 4,
+        "summary": "Partly sunny",
+        "temperature": 5.2,
+        "feels_like": 2.5,
+        "wind_chill": 2.5,
+        "dew_point": 0.2,
+        "wind": {
+          "speed": 6.8,
+          "gusts": 11,
+          "dir": "NNE",
+          "angle": 31
+        },
+        "cloud_cover": 55,
+        "pressure": 1004,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 3,
+          "storm": 0,
+          "freeze": 25
+        },
+        "ozone": 333.3,
+        "uv_index": 0,
+        "humidity": 70,
+        "visibility": 15
+      },
+      {
+        "date": "2026-11-20T08:00:00",
+        "weather": "partly_sunny",
+        "icon": 4,
+        "summary": "Partly sunny",
+        "temperature": 5.2,
+        "feels_like": 2.5,
+        "wind_chill": 2,
+        "dew_point": 0,
+        "wind": {
+          "speed": 6.1,
+          "gusts": 10.6,
+          "dir": "NNE",
+          "angle": 29
+        },
+        "cloud_cover": 54,
+        "pressure": 1005,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 0,
+          "storm": 0,
+          "freeze": 25
+        },
+        "ozone": 333.52,
+        "uv_index": 0,
+        "humidity": 68,
+        "visibility": 15
+      },
+      {
+        "date": "2026-11-20T09:00:00",
+        "weather": "partly_sunny",
+        "icon": 4,
+        "summary": "Partly sunny",
+        "temperature": 5.5,
+        "feels_like": 3.2,
+        "wind_chill": 2.2,
+        "dew_point": -0.2,
+        "wind": {
+          "speed": 6,
+          "gusts": 9.1,
+          "dir": "NNE",
+          "angle": 23
+        },
+        "cloud_cover": 51,
+        "pressure": 1007,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 0,
+          "storm": 0,
+          "freeze": 24
+        },
+        "ozone": 333.98,
+        "uv_index": 0.18,
+        "humidity": 66,
+        "visibility": 15
+      },
+      {
+        "date": "2026-11-20T10:00:00",
+        "weather": "partly_sunny",
+        "icon": 4,
+        "summary": "Partly sunny",
+        "temperature": 6.2,
+        "feels_like": 3.5,
+        "wind_chill": 3.5,
+        "dew_point": -0.5,
+        "wind": {
+          "speed": 6.8,
+          "gusts": 8.7,
+          "dir": "NNE",
+          "angle": 21
+        },
+        "cloud_cover": 59,
+        "pressure": 1008,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 0,
+          "storm": 0,
+          "freeze": 19
+        },
+        "ozone": 334.81,
+        "uv_index": 0.4,
+        "humidity": 61,
+        "visibility": 15
+      },
+      {
+        "date": "2026-11-20T11:00:00",
+        "weather": "partly_sunny",
+        "icon": 4,
+        "summary": "Partly sunny",
+        "temperature": 7.2,
+        "feels_like": 4.8,
+        "wind_chill": 4.2,
+        "dew_point": -0.2,
+        "wind": {
+          "speed": 6.6,
+          "gusts": 8.2,
+          "dir": "NNE",
+          "angle": 19
+        },
+        "cloud_cover": 64,
+        "pressure": 1009,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 0,
+          "storm": 0,
+          "freeze": 13
+        },
+        "ozone": 335.34,
+        "uv_index": 0.61,
+        "humidity": 58,
+        "visibility": 15
+      },
+      {
+        "date": "2026-11-20T12:00:00",
+        "weather": "partly_sunny",
+        "icon": 4,
+        "summary": "Partly sunny",
+        "temperature": 8.2,
+        "feels_like": 5.5,
+        "wind_chill": 5,
+        "dew_point": 0.8,
+        "wind": {
+          "speed": 7,
+          "gusts": 7.5,
+          "dir": "NNE",
+          "angle": 15
+        },
+        "cloud_cover": 60,
+        "pressure": 1010,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 1,
+          "storm": 0,
+          "freeze": 8
+        },
+        "ozone": 336.9,
+        "uv_index": 0.7,
+        "humidity": 59,
+        "visibility": 15
+      },
+      {
+        "date": "2026-11-20T13:00:00",
+        "weather": "partly_sunny",
+        "icon": 4,
+        "summary": "Partly sunny",
+        "temperature": 8.5,
+        "feels_like": 5.8,
+        "wind_chill": 5.8,
+        "dew_point": 1.5,
+        "wind": {
+          "speed": 6.7,
+          "gusts": 7.2,
+          "dir": "N",
+          "angle": 10
+        },
+        "cloud_cover": 56,
+        "pressure": 1010,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 3,
+          "storm": 0,
+          "freeze": 7
+        },
+        "ozone": 336.23,
+        "uv_index": 0.62,
+        "humidity": 61,
+        "visibility": 15
+      },
+      {
+        "date": "2026-11-20T14:00:00",
+        "weather": "partly_sunny",
+        "icon": 4,
+        "summary": "Partly sunny",
+        "temperature": 8.5,
+        "feels_like": 6.2,
+        "wind_chill": 5.8,
+        "dew_point": 2,
+        "wind": {
+          "speed": 6.6,
+          "gusts": 7.1,
+          "dir": "N",
+          "angle": 2
+        },
+        "cloud_cover": 58,
+        "pressure": 1011,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 0,
+          "storm": 0,
+          "freeze": 7
+        },
+        "ozone": 336.31,
+        "uv_index": 0.41,
+        "humidity": 63,
+        "visibility": 15
+      },
+      {
+        "date": "2026-11-20T15:00:00",
+        "weather": "partly_sunny",
+        "icon": 4,
+        "summary": "Partly sunny",
+        "temperature": 8.5,
+        "feels_like": 6.5,
+        "wind_chill": 6,
+        "dew_point": 3,
+        "wind": {
+          "speed": 6,
+          "gusts": 7.5,
+          "dir": "N",
+          "angle": 349
+        },
+        "cloud_cover": 62,
+        "pressure": 1012,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 0,
+          "storm": 0,
+          "freeze": 6
+        },
+        "ozone": 336.53,
+        "uv_index": 0.19,
+        "humidity": 68,
+        "visibility": 15
+      },
+      {
+        "date": "2026-11-20T16:00:00",
+        "weather": "mostly_cloudy",
+        "icon": 5,
+        "summary": "Mostly cloudy",
+        "temperature": 7.8,
+        "feels_like": 5.8,
+        "wind_chill": 4.8,
+        "dew_point": 3.5,
+        "wind": {
+          "speed": 5.9,
+          "gusts": 7.5,
+          "dir": "NNW",
+          "angle": 342
+        },
+        "cloud_cover": 69,
+        "pressure": 1013,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 0,
+          "storm": 0,
+          "freeze": 10
+        },
+        "ozone": 336.6,
+        "uv_index": 0,
+        "humidity": 74,
+        "visibility": 15
+      },
+      {
+        "date": "2026-11-20T17:00:00",
+        "weather": "partly_clear",
+        "icon": 28,
+        "summary": "Partly clear",
+        "temperature": 6.8,
+        "feels_like": 4.2,
+        "wind_chill": 4.2,
+        "dew_point": 3,
+        "wind": {
+          "speed": 6,
+          "gusts": 7.4,
+          "dir": "NNW",
+          "angle": 340
+        },
+        "cloud_cover": 63,
+        "pressure": 1014,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 1,
+          "storm": 0,
+          "freeze": 16
+        },
+        "ozone": 337.33,
+        "uv_index": 0,
+        "humidity": 76,
+        "visibility": 15
+      },
+      {
+        "date": "2026-11-20T18:00:00",
+        "weather": "mostly_cloudy",
+        "icon": 29,
+        "summary": "Mostly cloudy",
+        "temperature": 6,
+        "feels_like": 4.2,
+        "wind_chill": 3.8,
+        "dew_point": 2,
+        "wind": {
+          "speed": 5.6,
+          "gusts": 7.1,
+          "dir": "NNW",
+          "angle": 339
+        },
+        "cloud_cover": 68,
+        "pressure": 1015,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 4,
+          "storm": 0,
+          "freeze": 20
+        },
+        "ozone": 335.31,
+        "uv_index": 0,
+        "humidity": 75,
+        "visibility": 15
+      },
+      {
+        "date": "2026-11-20T19:00:00",
+        "weather": "mostly_cloudy",
+        "icon": 29,
+        "summary": "Mostly cloudy",
+        "temperature": 6,
+        "feels_like": 4.5,
+        "wind_chill": 4,
+        "dew_point": 1.8,
+        "wind": {
+          "speed": 4.9,
+          "gusts": 8,
+          "dir": "NNW",
+          "angle": 336
+        },
+        "cloud_cover": 70,
+        "pressure": 1016,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 6,
+          "storm": 0,
+          "freeze": 19
+        },
+        "ozone": 333.7,
+        "uv_index": 0,
+        "humidity": 74,
+        "visibility": 15
+      },
+      {
+        "date": "2026-11-20T20:00:00",
+        "weather": "mostly_cloudy",
+        "icon": 29,
+        "summary": "Mostly cloudy",
+        "temperature": 6,
+        "feels_like": 5,
+        "wind_chill": 4.5,
+        "dew_point": 2,
+        "wind": {
+          "speed": 4.2,
+          "gusts": 7.5,
+          "dir": "NW",
+          "angle": 319
+        },
+        "cloud_cover": 68,
+        "pressure": 1016,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 8,
+          "storm": 0,
+          "freeze": 20
+        },
+        "ozone": 334.14,
+        "uv_index": 0,
+        "humidity": 75,
+        "visibility": 15
+      },
+      {
+        "date": "2026-11-20T21:00:00",
+        "weather": "mostly_cloudy",
+        "icon": 29,
+        "summary": "Mostly cloudy",
+        "temperature": 5.8,
+        "feels_like": 4.8,
+        "wind_chill": 3.8,
+        "dew_point": 1.8,
+        "wind": {
+          "speed": 3.9,
+          "gusts": 7.4,
+          "dir": "WNW",
+          "angle": 304
+        },
+        "cloud_cover": 66,
+        "pressure": 1017,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 11,
+          "storm": 0,
+          "freeze": 21
+        },
+        "ozone": 335.04,
+        "uv_index": 0,
+        "humidity": 75,
+        "visibility": 15
+      },
+      {
+        "date": "2026-11-20T22:00:00",
+        "weather": "partly_clear",
+        "icon": 28,
+        "summary": "Partly clear",
+        "temperature": 5.8,
+        "feels_like": 5,
+        "wind_chill": 4,
+        "dew_point": 1.8,
+        "wind": {
+          "speed": 3.8,
+          "gusts": 7,
+          "dir": "WNW",
+          "angle": 290
+        },
+        "cloud_cover": 61,
+        "pressure": 1018,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 12,
+          "storm": 0,
+          "freeze": 22
+        },
+        "ozone": 336.12,
+        "uv_index": 0,
+        "humidity": 75,
+        "visibility": 15
+      },
+      {
+        "date": "2026-11-20T23:00:00",
+        "weather": "partly_clear",
+        "icon": 28,
+        "summary": "Partly clear",
+        "temperature": 5.8,
+        "feels_like": 4.5,
+        "wind_chill": 4,
+        "dew_point": 1.5,
+        "wind": {
+          "speed": 4.1,
+          "gusts": 7.8,
+          "dir": "WNW",
+          "angle": 288
+        },
+        "cloud_cover": 58,
+        "pressure": 1018,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 9,
+          "storm": 0,
+          "freeze": 22
+        },
+        "ozone": 335.75,
+        "uv_index": 0,
+        "humidity": 74,
+        "visibility": 15
+      },
+      {
+        "date": "2026-11-21T00:00:00",
+        "weather": "partly_clear",
+        "icon": 28,
+        "summary": "Partly clear",
+        "temperature": 5.5,
+        "feels_like": 4.5,
+        "wind_chill": 3.5,
+        "dew_point": 1,
+        "wind": {
+          "speed": 4.2,
+          "gusts": 7.6,
+          "dir": "WNW",
+          "angle": 286
+        },
+        "cloud_cover": 60,
+        "pressure": 1019,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 5,
+          "storm": 0,
+          "freeze": 23
+        },
+        "ozone": 335.77,
+        "uv_index": 0,
+        "humidity": 72,
+        "visibility": 15
+      },
+      {
+        "date": "2026-11-21T01:00:00",
+        "weather": "partly_clear",
+        "icon": 28,
+        "summary": "Partly clear",
+        "temperature": 5.5,
+        "feels_like": 4.8,
+        "wind_chill": 3.8,
+        "dew_point": 1.5,
+        "wind": {
+          "speed": 4,
+          "gusts": 7.2,
+          "dir": "W",
+          "angle": 270
+        },
+        "cloud_cover": 57,
+        "pressure": 1019,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 3,
+          "storm": 0,
+          "freeze": 24
+        },
+        "ozone": 334.43,
+        "uv_index": 0,
+        "humidity": 75,
+        "visibility": 15
+      },
+      {
+        "date": "2026-11-21T02:00:00",
+        "weather": "partly_clear",
+        "icon": 28,
+        "summary": "Partly clear",
+        "temperature": 5.5,
+        "feels_like": 4.5,
+        "wind_chill": 3.5,
+        "dew_point": 2,
+        "wind": {
+          "speed": 4.3,
+          "gusts": 7.6,
+          "dir": "W",
+          "angle": 260
+        },
+        "cloud_cover": 58,
+        "pressure": 1019,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 1,
+          "storm": 0,
+          "freeze": 23
+        },
+        "ozone": 335.1,
+        "uv_index": 0,
+        "humidity": 78,
+        "visibility": 15
+      },
+      {
+        "date": "2026-11-21T03:00:00",
+        "weather": "partly_clear",
+        "icon": 28,
+        "summary": "Partly clear",
+        "temperature": 5.5,
+        "feels_like": 4,
+        "wind_chill": 3,
+        "dew_point": 2,
+        "wind": {
+          "speed": 4.4,
+          "gusts": 7.7,
+          "dir": "WSW",
+          "angle": 254
+        },
+        "cloud_cover": 53,
+        "pressure": 1020,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 4,
+          "storm": 0,
+          "freeze": 24
+        },
+        "ozone": 333.45,
+        "uv_index": 0,
+        "humidity": 78,
+        "visibility": 15
+      },
+      {
+        "date": "2026-11-21T04:00:00",
+        "weather": "partly_clear",
+        "icon": 28,
+        "summary": "Partly clear",
+        "temperature": 5.5,
+        "feels_like": 4.2,
+        "wind_chill": 3.2,
+        "dew_point": 2,
+        "wind": {
+          "speed": 4.5,
+          "gusts": 8.7,
+          "dir": "WSW",
+          "angle": 252
+        },
+        "cloud_cover": 47,
+        "pressure": 1020,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 4,
+          "storm": 0,
+          "freeze": 24
+        },
+        "ozone": 332.33,
+        "uv_index": 0,
+        "humidity": 78,
+        "visibility": 15
+      },
+      {
+        "date": "2026-11-21T05:00:00",
+        "weather": "partly_clear",
+        "icon": 28,
+        "summary": "Partly clear",
+        "temperature": 5.8,
+        "feels_like": 4.2,
+        "wind_chill": 3.8,
+        "dew_point": 2.2,
+        "wind": {
+          "speed": 4.2,
+          "gusts": 8.4,
+          "dir": "WSW",
+          "angle": 251
+        },
+        "cloud_cover": 42,
+        "pressure": 1020,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 1,
+          "storm": 0,
+          "freeze": 24
+        },
+        "ozone": 331.47,
+        "uv_index": 0,
+        "humidity": 78,
+        "visibility": 15
+      },
+      {
+        "date": "2026-11-21T06:00:00",
+        "weather": "partly_clear",
+        "icon": 28,
+        "summary": "Partly clear",
+        "temperature": 6,
+        "feels_like": 5,
+        "wind_chill": 4.5,
+        "dew_point": 2.8,
+        "wind": {
+          "speed": 4.2,
+          "gusts": 9,
+          "dir": "WSW",
+          "angle": 245
+        },
+        "cloud_cover": 48,
+        "pressure": 1020,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 2,
+          "storm": 0,
+          "freeze": 22
+        },
+        "ozone": 328.7,
+        "uv_index": 0,
+        "humidity": 79,
+        "visibility": 15
+      },
+      {
+        "date": "2026-11-21T07:00:00",
+        "weather": "partly_sunny",
+        "icon": 4,
+        "summary": "Partly sunny",
+        "temperature": 6.8,
+        "feels_like": 5.5,
+        "wind_chill": 4.5,
+        "dew_point": 3.5,
+        "wind": {
+          "speed": 4.3,
+          "gusts": 9.4,
+          "dir": "WSW",
+          "angle": 243
+        },
+        "cloud_cover": 57,
+        "pressure": 1020,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 1,
+          "storm": 0,
+          "freeze": 17
+        },
+        "ozone": 327.5,
+        "uv_index": 0,
+        "humidity": 79,
+        "visibility": 15
+      },
+      {
+        "date": "2026-11-21T08:00:00",
+        "weather": "partly_sunny",
+        "icon": 4,
+        "summary": "Partly sunny",
+        "temperature": 7.5,
+        "feels_like": 6.5,
+        "wind_chill": 6,
+        "dew_point": 4.2,
+        "wind": {
+          "speed": 4,
+          "gusts": 9.6,
+          "dir": "WSW",
+          "angle": 238
+        },
+        "cloud_cover": 60,
+        "pressure": 1021,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 0,
+          "storm": 0,
+          "freeze": 12
+        },
+        "ozone": 329.2,
+        "uv_index": 0,
+        "humidity": 79,
+        "visibility": 15
+      },
+      {
+        "date": "2026-11-21T09:00:00",
+        "weather": "partly_sunny",
+        "icon": 4,
+        "summary": "Partly sunny",
+        "temperature": 8,
+        "feels_like": 6.8,
+        "wind_chill": 5.8,
+        "dew_point": 4.2,
+        "wind": {
+          "speed": 4.8,
+          "gusts": 10.6,
+          "dir": "WSW",
+          "angle": 242
+        },
+        "cloud_cover": 62,
+        "pressure": 1021,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 2,
+          "storm": 0,
+          "freeze": 9
+        },
+        "ozone": 325.74,
+        "uv_index": 0.18,
+        "humidity": 77,
+        "visibility": 15
+      },
+      {
+        "date": "2026-11-21T10:00:00",
+        "weather": "partly_sunny",
+        "icon": 4,
+        "summary": "Partly sunny",
+        "temperature": 9,
+        "feels_like": 7.5,
+        "wind_chill": 7,
+        "dew_point": 4.2,
+        "wind": {
+          "speed": 5.7,
+          "gusts": 13.5,
+          "dir": "WSW",
+          "angle": 250
+        },
+        "cloud_cover": 63,
+        "pressure": 1021,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 1,
+          "storm": 0,
+          "freeze": 3
+        },
+        "ozone": 321.72,
+        "uv_index": 0.41,
+        "humidity": 72,
+        "visibility": 15
+      },
+      {
+        "date": "2026-11-21T11:00:00",
+        "weather": "partly_sunny",
+        "icon": 4,
+        "summary": "Partly sunny",
+        "temperature": 10.2,
+        "feels_like": 9.2,
+        "wind_chill": 8.2,
+        "dew_point": 4,
+        "wind": {
+          "speed": 5.9,
+          "gusts": 16.2,
+          "dir": "WSW",
+          "angle": 248
+        },
+        "cloud_cover": 64,
+        "pressure": 1021,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 0,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 319.55,
+        "uv_index": 0.62,
+        "humidity": 65,
+        "visibility": 15
+      },
+      {
+        "date": "2026-11-21T12:00:00",
+        "weather": "partly_sunny",
+        "icon": 4,
+        "summary": "Partly sunny",
+        "temperature": 11.2,
+        "feels_like": 10.5,
+        "wind_chill": 10,
+        "dew_point": 4,
+        "wind": {
+          "speed": 6.8,
+          "gusts": 19,
+          "dir": "WSW",
+          "angle": 244
+        },
+        "cloud_cover": 61,
+        "pressure": 1021,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 6,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 317.13,
+        "uv_index": 0.73,
+        "humidity": 60,
+        "visibility": 15
+      },
+      {
+        "date": "2026-11-21T13:00:00",
+        "weather": "partly_sunny",
+        "icon": 4,
+        "summary": "Partly sunny",
+        "temperature": 11.2,
+        "feels_like": 10.2,
+        "wind_chill": 9.8,
+        "dew_point": 4.2,
+        "wind": {
+          "speed": 6.4,
+          "gusts": 18.7,
+          "dir": "SW",
+          "angle": 235
+        },
+        "cloud_cover": 53,
+        "pressure": 1021,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 2,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 322.09,
+        "uv_index": null,
+        "humidity": 62,
+        "visibility": 15
+      },
+      {
+        "date": "2026-11-21T14:00:00",
+        "weather": "partly_sunny",
+        "icon": 4,
+        "summary": "Partly sunny",
+        "temperature": 11.2,
+        "feels_like": 10,
+        "wind_chill": 10,
+        "dew_point": 4.5,
+        "wind": {
+          "speed": 5.9,
+          "gusts": 18.3,
+          "dir": "SW",
+          "angle": 222
+        },
+        "cloud_cover": 54,
+        "pressure": 1020,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 4,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 327.05,
+        "uv_index": null,
+        "humidity": 63,
+        "visibility": 15
+      },
+      {
+        "date": "2026-11-21T15:00:00",
+        "weather": "mostly_cloudy",
+        "icon": 5,
+        "summary": "Mostly cloudy",
+        "temperature": 11.2,
+        "feels_like": 9.8,
+        "wind_chill": 9.8,
+        "dew_point": 4.5,
+        "wind": {
+          "speed": 5.6,
+          "gusts": 18,
+          "dir": "SSW",
+          "angle": 204
+        },
+        "cloud_cover": 73,
+        "pressure": 1020,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 1,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 332.01,
+        "uv_index": null,
+        "humidity": 63,
+        "visibility": 15
+      },
+      {
+        "date": "2026-11-21T16:00:00",
+        "weather": "cloudy",
+        "icon": 6,
+        "summary": "Cloudy",
+        "temperature": 10.5,
+        "feels_like": 9.8,
+        "wind_chill": 9.2,
+        "dew_point": 4.8,
+        "wind": {
+          "speed": 5.2,
+          "gusts": 16.5,
+          "dir": "SSW",
+          "angle": 193
+        },
+        "cloud_cover": 86,
+        "pressure": 1020,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 1,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 329.86,
+        "uv_index": null,
+        "humidity": 67,
+        "visibility": 15
+      },
+      {
+        "date": "2026-11-21T17:00:00",
+        "weather": "overcast",
+        "icon": 7,
+        "summary": "Overcast",
+        "temperature": 10,
+        "feels_like": 10,
+        "wind_chill": 10,
+        "dew_point": 5.2,
+        "wind": {
+          "speed": 4.6,
+          "gusts": 15,
+          "dir": "S",
+          "angle": 184
+        },
+        "cloud_cover": 100,
+        "pressure": 1020,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 0,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 327.71,
+        "uv_index": null,
+        "humidity": 72,
+        "visibility": 15
+      },
+      {
+        "date": "2026-11-21T18:00:00",
+        "weather": "overcast",
+        "icon": 7,
+        "summary": "Overcast",
+        "temperature": 9.5,
+        "feels_like": 10,
+        "wind_chill": 9.5,
+        "dew_point": 5.5,
+        "wind": {
+          "speed": 4.3,
+          "gusts": 12.2,
+          "dir": "S",
+          "angle": 175
+        },
+        "cloud_cover": 100,
+        "pressure": 1020,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 0,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 325.56,
+        "uv_index": null,
+        "humidity": 76,
+        "visibility": 15
+      },
+      {
+        "date": "2026-11-21T19:00:00",
+        "weather": "overcast",
+        "icon": 7,
+        "summary": "Overcast",
+        "temperature": 9.5,
+        "feels_like": 7,
+        "wind_chill": 8.5,
+        "dew_point": 5.5,
+        "wind": {
+          "speed": 4.1,
+          "gusts": 10.6,
+          "dir": "SSE",
+          "angle": 166
+        },
+        "cloud_cover": 100,
+        "pressure": 1020,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 0,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 321.83,
+        "uv_index": null,
+        "humidity": 76,
+        "visibility": 15
+      },
+      {
+        "date": "2026-11-21T20:00:00",
+        "weather": "overcast",
+        "icon": 7,
+        "summary": "Overcast",
+        "temperature": 9.2,
+        "feels_like": 6.8,
+        "wind_chill": 8.8,
+        "dew_point": 5.2,
+        "wind": {
+          "speed": 4,
+          "gusts": 10,
+          "dir": "SSE",
+          "angle": 159
+        },
+        "cloud_cover": 100,
+        "pressure": 1019,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 0,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 318.1,
+        "uv_index": null,
+        "humidity": 76,
+        "visibility": 15
+      },
+      {
+        "date": "2026-11-21T21:00:00",
+        "weather": "overcast",
+        "icon": 7,
+        "summary": "Overcast",
+        "temperature": 9,
+        "feels_like": 7,
+        "wind_chill": 8.5,
+        "dew_point": 5.2,
+        "wind": {
+          "speed": 4.1,
+          "gusts": 9.9,
+          "dir": "SSE",
+          "angle": 152
+        },
+        "cloud_cover": 98,
+        "pressure": 1019,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 0,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 314.38,
+        "uv_index": null,
+        "humidity": 77,
+        "visibility": 15
+      },
+      {
+        "date": "2026-11-21T22:00:00",
+        "weather": "overcast",
+        "icon": 7,
+        "summary": "Overcast",
+        "temperature": 9,
+        "feels_like": 7,
+        "wind_chill": 8.5,
+        "dew_point": 5.2,
+        "wind": {
+          "speed": 4.1,
+          "gusts": 10.6,
+          "dir": "SSE",
+          "angle": 147
+        },
+        "cloud_cover": 95,
+        "pressure": 1018,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 0,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 312.55,
+        "uv_index": null,
+        "humidity": 77,
+        "visibility": 15
+      },
+      {
+        "date": "2026-11-21T23:00:00",
+        "weather": "overcast",
+        "icon": 7,
+        "summary": "Overcast",
+        "temperature": 9.2,
+        "feels_like": 7,
+        "wind_chill": 8.5,
+        "dew_point": 5.5,
+        "wind": {
+          "speed": 4.1,
+          "gusts": 11.3,
+          "dir": "SE",
+          "angle": 140
+        },
+        "cloud_cover": 93,
+        "pressure": 1017,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 0,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 310.73,
+        "uv_index": null,
+        "humidity": 77,
+        "visibility": 15
+      },
+      {
+        "date": "2026-11-22T00:00:00",
+        "weather": "overcast",
+        "icon": 7,
+        "summary": "Overcast",
+        "temperature": 9,
+        "feels_like": 7,
+        "wind_chill": 8,
+        "dew_point": 5.2,
+        "wind": {
+          "speed": 4,
+          "gusts": 12.1,
+          "dir": "SE",
+          "angle": 134
+        },
+        "cloud_cover": 95,
+        "pressure": 1017,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 0,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 308.9,
+        "uv_index": null,
+        "humidity": 77,
+        "visibility": 15
+      },
+      {
+        "date": "2026-11-22T01:00:00",
+        "weather": "overcast",
+        "icon": 7,
+        "summary": "Overcast",
+        "temperature": 8.8,
+        "feels_like": 5.8,
+        "wind_chill": 7.8,
+        "dew_point": 4.8,
+        "wind": {
+          "speed": 4.7,
+          "gusts": 13.2,
+          "dir": "SE",
+          "angle": 136
+        },
+        "cloud_cover": 97,
+        "pressure": 1016,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 0,
+          "storm": 0,
+          "freeze": 1
+        },
+        "ozone": 305.88,
+        "uv_index": null,
+        "humidity": 75,
+        "visibility": 15
+      },
+      {
+        "date": "2026-11-22T02:00:00",
+        "weather": "overcast",
+        "icon": 7,
+        "summary": "Overcast",
+        "temperature": 8.2,
+        "feels_like": 5.8,
+        "wind_chill": 6.8,
+        "dew_point": 4.2,
+        "wind": {
+          "speed": 5.4,
+          "gusts": 14.4,
+          "dir": "SE",
+          "angle": 138
+        },
+        "cloud_cover": 100,
+        "pressure": 1015,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 0,
+          "storm": 0,
+          "freeze": 4
+        },
+        "ozone": 302.86,
+        "uv_index": null,
+        "humidity": 75,
+        "visibility": 15
+      },
+      {
+        "date": "2026-11-22T03:00:00",
+        "weather": "overcast",
+        "icon": 7,
+        "summary": "Overcast",
+        "temperature": 8,
+        "feels_like": 5.5,
+        "wind_chill": 6.5,
+        "dew_point": 3.5,
+        "wind": {
+          "speed": 6,
+          "gusts": 15.1,
+          "dir": "SE",
+          "angle": 139
+        },
+        "cloud_cover": 98,
+        "pressure": 1015,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 3,
+          "storm": 0,
+          "freeze": 5
+        },
+        "ozone": 299.84,
+        "uv_index": null,
+        "humidity": 73,
+        "visibility": 15
+      }
+    ]
+  }
+}
