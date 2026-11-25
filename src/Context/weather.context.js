@@ -1,4 +1,4 @@
-import { Children, createContext, useEffect, useState } from "react";
+import { createContext, useEffect, useState } from "react";
 import { DEFAULT_PLACE, MEASUREMENT_SYSTEMS, UNITS } from "../constants";
 import { getWeatherData } from "../api";
 

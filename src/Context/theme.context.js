@@ -17,9 +17,7 @@ function ThemeProvider({children}) {
       return;
     }
 
-    const isSystemThemeDark = window.matchMedia(
-      '(prefers-color-scheme: dark)'
-    ) .matches;
+    const isSystemThemeDark = window.matchMedia('(prefers-color-scheme: dark)') .matches;
     setDark(isSystemThemeDark === true);
 
   }, []);
