@@ -50,7 +50,8 @@ function WeatherProvider({ children }) {
   return (
     <WeatherContext.Provider 
       value={{ 
-        place, 
+        place,
+        setPlace,
         loading,
         currentWeather,
         hourlyForecast,
