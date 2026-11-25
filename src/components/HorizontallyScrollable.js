@@ -15,7 +15,7 @@ function HorizontallyScrollable({ children, className = '' }) {
       };
       
       const handleMouseUp = () => {
-        window.removeEventListener("Mousemove", handleMouseMove);
+        window.removeEventListener("mousemove", handleMouseMove);
         window.removeEventListener('mouseup', handleMouseUp);
       };
 
